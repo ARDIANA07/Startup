@@ -25,5 +25,23 @@ class CategorySeeder extends Seeder
             'harga' => '60.000-100.000',
             'foto' => 'foto.jpg'
         ]);
+        Category::factory()->create([
+            'kode' => 'BT-03',
+            'name' => 'Batik jogja',
+            'harga' => '60.000-100.000',
+            'foto' => 'foto.jpg'
+        ]);
+        Category::factory()->create([
+            'kode' => 'BT-04',
+            'name' => 'Batik jogja',
+            'harga' => '60.000-100.000',
+            'foto' => 'foto.jpg'
+        ]);
+        Category::factory()->create([
+            'kode' => 'BT-05',
+            'name' => 'Batik jogja',
+            'harga' => '60.000-100.000',
+            'foto' => 'foto.jpg'
+        ]);
     }
 }
