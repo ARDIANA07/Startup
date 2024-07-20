@@ -14,9 +14,11 @@
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                         <li><a class="dropdown-item" href="#!">All Products</a></li>
                         <li><a class="dropdown-item" href="/categori">Detail Product</a></li>
-
                     </ul>
                 </li>
+            </ul>
+            <ul class="navbar-nav me-auto">
+                <li class="nav-item"><a class="nav-link" href="/auth">Login Admin</a></li>
             </ul>
             <form class="d-flex">
                 <button class="btn btn-outline-dark" type="submit">

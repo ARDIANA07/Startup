@@ -13,6 +13,7 @@ class Category extends Model
     protected $fillable = [
         'kode',
         'name',
+        'harga',
         'foto',
     ];
 

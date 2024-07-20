@@ -16,11 +16,13 @@ class CategorySeeder extends Seeder
         Category::factory()->create([
             'kode' => 'BT-01',
             'name' => 'Batik Solo',
+            'harga' => '50.000-70.000',
             'foto' => 'foto.jpg'
         ]);
         Category::factory()->create([
             'kode' => 'BT-02',
             'name' => 'Batik jogja',
+            'harga' => '60.000-100.000',
             'foto' => 'foto.jpg'
         ]);
     }
