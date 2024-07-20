@@ -31,6 +31,7 @@
                             <div class="card card-primary">
                                 <div class="card-header">
                                     <h4>Login</h4>
+                                    <p>E-Commerce Produk Batik</p>
                                 </div>
 
                                 <div class="card-body">
