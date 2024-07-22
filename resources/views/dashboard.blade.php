@@ -1,4 +1,5 @@
 @extends('layout.master')
+@section('title', 'Landing Page')
 
 @section('content')
     <main class="main">
